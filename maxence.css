@@ -57,6 +57,9 @@ body {
 img {
     max-width: 600px
 }
+abbr {
+    display: inline;
+}
 p {
     text-align: center;
 }
